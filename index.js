@@ -19,6 +19,6 @@ app.use('/', function(req, res) {
 
 app.listen(process.env.PORT || 3000);
 
-$(document).ready(function(){
-
-});
+// $(document).ready(function(){
+//
+// });
